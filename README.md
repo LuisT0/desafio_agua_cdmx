@@ -17,7 +17,7 @@ El objetivo es transformar datos públicos en insights accesibles que ayuden a e
 ![Mapa de Consumo por Colonia](docs/mapa_consumo.png)
 _Mapa coroplético interactivo que muestra el consumo de agua por colonia._
 
-![Primera página de la app en streamlit](docs/series_tiempo.png)
+![Primera página de la app en streamlit](docs/app_principal.png)
 _Página principal de la app._
 
 ## ✨ Características Clave
