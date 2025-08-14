@@ -6,7 +6,7 @@
 
 ## 📖 Descripción
 
-Este es un proyecto de **Análisis y Visualización de Datos** que explora los patrones de consumo de agua en la Ciudad de México. La solución se presenta como una **aplicación web interactiva** construida con **Streamlit**, diseñada para identificar "hotspots" (puntos calientes) de consumo, analizar tendencias temporales y visualizar desigualdades en el acceso al agua a nivel de colonia y alcaldía.
+Este es un proyecto de **Análisis y Visualización de Datos** que explora los patrones de consumo de agua en la Ciudad de México. La solución se presenta como una **aplicación web interactiva** construida con **Streamlit**, diseñada para identificar "hotspots" (puntos calientes) de consumo y dar visibilidad a los mismos.
 
 El objetivo es transformar datos públicos en insights accesibles que ayuden a entender mejor la compleja dinámica del agua en una de las ciudades más grandes del mundo.
 
